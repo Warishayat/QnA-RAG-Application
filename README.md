@@ -39,8 +39,8 @@ You can install all the dependencies listed in the `requirements.txt` file.
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/yourusername/pdf-question-answering.git
-   cd pdf-question-answering
+   [git clone https://github.com/yourusername/pdf-question-answering.git]
+   cd Folder_name
    ```
 
 2. **Create a virtual environment** (if not already done):
